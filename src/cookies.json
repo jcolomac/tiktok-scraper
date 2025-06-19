@@ -1,0 +1,10 @@
+[
+  {
+    "name": "sid_tt",
+    "value": "REEMPLAZAR_CON_TU_COOKIE",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  }
+]
