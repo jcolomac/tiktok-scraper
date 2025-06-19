@@ -1,0 +1,17 @@
+{
+  "title": "TikTok Comment Scraper",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "urls": {
+      "type": "array",
+      "title": "TikTok video URLs",
+      "description": "List of TikTok video URLs to extract comments from.",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    }
+  },
+  "required": ["urls"]
+}
